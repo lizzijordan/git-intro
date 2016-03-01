@@ -1,1 +1,2 @@
 Message number 1
+learning git is fun!
